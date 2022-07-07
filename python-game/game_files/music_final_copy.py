@@ -8,6 +8,7 @@ import game_files.button as button
 mixer.init()
 pygame.init()
 
+### This is the final code. Run this file in VScode to get the output ###
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = int(SCREEN_WIDTH * 0.8)
